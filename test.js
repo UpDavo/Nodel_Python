@@ -1,0 +1,31 @@
+[
+  {
+    pk: 17972310085402296,
+    user_id: 276546408,
+    text: "@shane_thomas_scholefield 😂😂😂😂",
+    type: 2,
+    created_at: 1623716425,
+    created_at_utc: 1623716425,
+    content_type: "comment",
+    status: "Active",
+    bit_flags: 0,
+    did_report_as_spam: False,
+    share_enabled: False,
+    user: {
+      pk: 276546408,
+      username: "benjamindonhardtofficial",
+      full_name: "Benjamin Donhardt",
+      is_private: False,
+      profile_pic_url:
+        "https://instagram.fgye1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/149829299_465410074839992_6074220711145207259_n.jpg?tp=1&_nc_ht=instagram.fgye1-2.fna.fbcdn.net&_nc_ohc=VLzQ2yjdDRsAX-ZGn5g&edm=AFDWGO4BAAAA&ccb=7-4&oh=7f69454f1ba842e875191d8784aedbeb&oe=60DB4789&_nc_sid=2ea7f4",
+      profile_pic_id: "2508631022139043690_276546408",
+      is_verified: False,
+      follow_friction_type: -1,
+    },
+    is_covered: False,
+    parent_comment_id: 17872124561415521,
+    has_liked_comment: False,
+    comment_like_count: 0,
+    private_reply_status: 0,
+  },
+];
