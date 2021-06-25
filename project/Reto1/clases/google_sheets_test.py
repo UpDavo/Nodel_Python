@@ -6,7 +6,7 @@ from gspread_pandas import Spread, Client
 SCOPE = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
          "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
 CREDENTIALS = ServiceAccountCredentials.from_json_keyfile_name(
-    "Reto1/archivos/keys.json")
+    "project/Reto1/archivos/keys.json")
 CLIENT = gspread.authorize(CREDENTIALS)
 
 
